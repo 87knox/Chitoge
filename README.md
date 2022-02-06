@@ -27,7 +27,7 @@
 ## 💻 Deploy/Hosting Guide
 
 -   Section Moved to
-    [Chitoge-Guides](https://github.com/ShineiIchijo/Chitoge-Guides/blob/main/README.md)
+    [Chitoge-Guides](https://github.com/87knox/Chitoge-Guides/blob/main/README.md)
 
 ## 🍥 Features of the Repo
 
